@@ -3,8 +3,7 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: #845d06;
-    /*background-image:url("../images/food.jpg");*/
+    background-image:url("../images/food.jpg");
     /*background-image: url('https://www.pexels.com/photo/background-beverage-breakfast-brown-414645/');*/
     /*body:background "food.jpg";*/
     font-size: 16px ;
@@ -20,7 +19,7 @@ body {
     margin: 5% auto;
     width: 600px;
     height: 400px;
-    background:black;
+    background: sandybrown;
     border-radius: 10px;
     /*backround:rgba(0,0,0,1);*/
     /*box-shadow: 0 6px 12px rgb(237, 41, 57);*/
